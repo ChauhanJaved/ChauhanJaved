@@ -1,8 +1,7 @@
-### Greetings !
+<h1>Greetings!:smile:</h1>
 
-Thank you for visiting my profile. I am Javed Chauhan, an experienced software developer specializing in Web and Mobile application development. Over the years, I've collaborated with a diverse range of businesses, both large and small. My dedication to client satisfaction is paramount, and I pride myself on maintaining transparency and integrity. When partnering with me, not only will you receive high-quality results, but I also strive to exceed your expectations, delivering work that resonates with excellence.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanJaved&layout=compact)
+<h3>Thank you for visiting my profile. I am Javed Chauhan, an experienced software developer specializing in Web and Mobile application development. Over the years, I've collaborated with a diverse range of businesses, both large and small. My dedication to client satisfaction is paramount, and I pride myself on maintaining transparency and integrity. When partnering with me, not only will you receive high-quality results, but I also strive to exceed your expectations, delivering work that resonates with excellence.</h3>
+:smile:
 
 <!--
 **ChauhanJaved/ChauhanJaved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

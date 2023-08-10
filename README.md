@@ -1,19 +1,12 @@
-<h1>Greetings!:smile:</h1>
+### Greetings!😃
 
-<h3>Thank you for visiting my profile. I am Javed Chauhan, an experienced software developer specializing in Web and Mobile application development. Over the years, I've collaborated with a diverse range of businesses, both large and small. My dedication to client satisfaction is paramount, and I pride myself on maintaining transparency and integrity. When partnering with me, not only will you receive high-quality results, but I also strive to exceed your expectations, delivering work that resonates with excellence.</h3>
-:smile:
+Thank you for visiting my profile. I am Javed Chauhan, an experienced software developer specializing in Web and Mobile application development. Over the years, I've collaborated with a diverse range of businesses, both large and small. My dedication to client satisfaction is paramount, and I pride myself on maintaining transparency and integrity. When partnering with me, not only will you receive high-quality results, but I also strive to exceed your expectations, delivering work that resonates with excellence.
 
-<!--
-**ChauhanJaved/ChauhanJaved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools:
+* Version Control & Code Collaboration: GitHub
+* Frontend: Bootstrap, React.js
+* Mobile Frontend: React Native
+* Backend: Express.js, Node.js
+* Database: MongoDB
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for taking the time to understand my expertise and approach. I genuinely believe that collaboration breeds innovation, and I'm eager to embark on a journey of technological excellence with you. Let's create something remarkable together.

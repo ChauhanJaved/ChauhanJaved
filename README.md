@@ -10,3 +10,5 @@ Thank you for visiting my profile. I am Javed Chauhan, an experienced software d
 * Database: MongoDB
 
 Thank you for taking the time to understand my expertise and approach. I genuinely believe that collaboration breeds innovation, and I'm eager to embark on a journey of technological excellence with you. Let's create something remarkable together.
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ChauhanJaved&show_icons=true&locale=en&layout=compact&theme=radical)

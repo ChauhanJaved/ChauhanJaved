@@ -8,7 +8,7 @@ I do not maintain any permanent employees on my team. Instead, I prioritize flex
 
 ### My Skills:
 
-* Frontend (Primary Focus): REACT JS, Bootstrap
+* Frontend (Primary Focus): **REACT JS**, Bootstrap
 * Backend: Express.js, Node.js
 * Database: MongoDB
 * Version Control & Code Collaboration: GitHub

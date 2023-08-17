@@ -8,7 +8,8 @@ I do not maintain any permanent employees on my team. Instead, I prioritize flex
 
 ### My Skills:
 
-* Frontend (Primary Focus): **REACT JS**, Bootstrap
+* Primary Focus: **REACT JS**
+* Frontend: React.js , Bootstrap
 * Backend: Express.js, Node.js
 * Database: MongoDB
 * Version Control & Code Collaboration: GitHub
@@ -19,5 +20,3 @@ I do not maintain any permanent employees on my team. Instead, I prioritize flex
 * [Know more about me](https://www.frameworkteam.com/)
 
 Thank you for taking the time to understand my expertise and approach. I genuinely believe that collaboration breeds innovation, and I'm eager to embark on a journey of technological excellence with you. Let's create something remarkable together.
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ChauhanJaved&show_icons=true&locale=en&layout=compact&theme=radical)

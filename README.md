@@ -1,13 +1,14 @@
 ### Greetings!😃
 
-Thank you for visiting my profile. I am Javed Chauhan, an experienced software developer specializing in Web and Mobile application development. Over the years, I've collaborated with a diverse range of businesses, both large and small. My dedication to client satisfaction is paramount, and I pride myself on maintaining transparency and integrity. When partnering with me, not only will you receive high-quality results, but I also strive to exceed your expectations, delivering work that resonates with excellence.
+Thank you for visiting my profile. I am Javed Chauhan, an experienced software developer specializing in Web and Mobile and Windows application development. Over the years, I've collaborated with a diverse range of businesses, both large and small. My dedication to client satisfaction is paramount, and I pride myself on maintaining transparency and integrity. When partnering with me, not only will you receive high-quality results, but I also strive to exceed your expectations, delivering work that resonates with excellence.
 
 ### My Skills:
 
-* Primary Focus: **REACT JS**
-* Frontend: React.js , Bootstrap
-* Backend: Express.js, Node.js
-* Database: MongoDB
+* Primary Focus:
+  * Frontend: **REACT JS**  
+* Familiar With  
+  * Backend: Express.js, Node.js
+  * Database: MongoDB
 * Version Control & Code Collaboration: GitHub
   
 ### My Team:

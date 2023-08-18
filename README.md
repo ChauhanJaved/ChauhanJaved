@@ -2,10 +2,6 @@
 
 Thank you for visiting my profile. I am Javed Chauhan, an experienced software developer specializing in Web and Mobile application development. Over the years, I've collaborated with a diverse range of businesses, both large and small. My dedication to client satisfaction is paramount, and I pride myself on maintaining transparency and integrity. When partnering with me, not only will you receive high-quality results, but I also strive to exceed your expectations, delivering work that resonates with excellence.
 
-### My Team:
-
-I do not maintain any permanent employees on my team. Instead, I prioritize flexibility and specialization by selecting members from my network based on the distinct requirements of each project. All team members operate remotely, working from their preferred and most comfortable locations. This approach to remote work not only ensures a tailored fit for every task but also significantly reduces the overall cost of projects, providing both efficiency and value to our endeavors.
-
 ### My Skills:
 
 * Primary Focus: **REACT JS**
@@ -13,6 +9,10 @@ I do not maintain any permanent employees on my team. Instead, I prioritize flex
 * Backend: Express.js, Node.js
 * Database: MongoDB
 * Version Control & Code Collaboration: GitHub
+  
+### My Team:
+
+I do not maintain any permanent employees on my team. Instead, I prioritize flexibility and specialization by selecting members from my network based on the distinct requirements of each project. All team members operate remotely, working from their preferred and most comfortable locations. This approach to remote work not only ensures a tailored fit for every task but also significantly reduces the overall cost of projects, providing both efficiency and value to our endeavors.
 
 ### My Links:
 

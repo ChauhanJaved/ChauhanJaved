@@ -4,11 +4,12 @@ Thank you for visiting my profile. I am Javed Chauhan, an experienced software d
 
 ### My Skills:
 
-* Primary Focus:
-  * Frontend: **REACT JS**  
-* Familiar With  
+* Primary Focus:  
+  * Frontend: React.js, Bootstrap
+  * Language: JavaScript
+* Familiar With:  
   * Backend: Express.js, Node.js
-  * Database: MongoDB
+  * Database: MongoDB  
 * Version Control & Code Collaboration: GitHub
   
 ### My Team:

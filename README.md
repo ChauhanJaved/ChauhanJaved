@@ -17,9 +17,4 @@ Thank you for visiting my profile. I am Javed Chauhan, an experienced software d
 
 I do not maintain any permanent employees on my team. Instead, I prioritize flexibility and specialization by selecting members from my network based on the distinct requirements of each project. All team members operate remotely, working from their preferred and most comfortable locations. This approach to remote work not only ensures a tailored fit for every task but also significantly reduces the overall cost of projects, providing both efficiency and value to our endeavors.
 
-### My Links:
-
-* [Hire me on freelancer.com](https://www.freelancer.com/u/frameworkte)
-* [Know more about me](https://www.frameworkteam.com/)
-
 Thank you for taking the time to understand my expertise and approach. I genuinely believe that collaboration breeds innovation, and I'm eager to embark on a journey of technological excellence with you. Let's create something remarkable together.

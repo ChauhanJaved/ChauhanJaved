@@ -6,7 +6,7 @@ Thank you for visiting my profile. I'm frontend developer who specializes in usi
   - JavaScript / TypeScript
 - Frontend:
   - React Frameworks: Next.js, Gatsby, Remix
-  - React UI Component: Bootstrap, Tailwind, Material UI, Chakra UI, Mantine
+  - React UI Component & CSS: Bootstrap, Tailwind, Material UI, Chakra UI, Mantine UI, Ant Design, Radix UI, NextUI, Shadcn UI
 - Backend:
   - Backend Services: Supabase, Firebase
   - Headless CMS: Strapi 

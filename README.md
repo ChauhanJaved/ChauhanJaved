@@ -5,9 +5,9 @@ Thank you for visiting my profile. I'm frontend developer who specializes in usi
 - Language:
   - JavaScript / TypeScript
 - Frontend:
-  - React Framework: NEXT.js
-  - CSS Framework: Tailwindcss,
-  - Component Library: Shadcn
+  - React Framework: next.js
+  - CSS Framework: tailwindcss,
+  - Component Library: shadcn
 - Backend:
   - Backend Services: Supabase, Firebase
   - Headless CMS & Commerce

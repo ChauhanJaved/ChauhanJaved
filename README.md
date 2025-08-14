@@ -28,6 +28,6 @@ Thank you for visiting my profile. I'm frontend developer who specializes in usi
   - <a href="https://www.converthtmltoimage.com" target="_blank" rel="noopener noreferrer">https://www.converthtmltoimage.com</a>
   - <a href="https://www.websitesscreenshot.com" target="_blank" rel="noopener noreferrer">https://www.websitesscreenshot.com</a>
 - Contact
-  -  Please contact me only via my Upwork profile
+  -  Please contact me only via my <a href="https://www.upwork.com/freelancers/chauhanjaved" target="_blank" rel="noopener noreferrer">Upwork profile</a>
   
 Thank you for taking the time to understand my expertise and approach.

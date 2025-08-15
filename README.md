@@ -1,33 +1,22 @@
-Greetings!
+## 👋 Welcome
 
-Thank you for visiting my profile. I'm frontend developer who specializes in using the React.js to build frontend of web applications.
+I’m a **Frontend Web Developer** specializing in building modern, high-performance web applications with **React.js** and related technologies.
 
-- Language:
-  - JavaScript / TypeScript
-- Frontend:
-  - React Framework: Next.js
-  - CSS Framework: Tailwind
-  - Component Library: Shadcn/UI
-- Backend:
-  - Backend Services: Supabase, Firebase
-  - Headless CMS & Commerce
-- Portfolio
-  - <a href="https://www.frameworkteam.com" target="_blank" rel="noopener noreferrer">https://www.frameworkteam.com</a>
-  - <a href="https://www.pdf-tiff-tools.com" target="_blank" rel="noopener noreferrer">https://www.pdf-tiff-tools.com</a>
-  - <a href="https://www.jpg-to-pdf-converter.com" target="_blank" rel="noopener noreferrer">https://www.jpg-to-pdf-converter.com</a>
-  - <a href="https://www.tiff-to-pdf-converter.com" target="_blank" rel="noopener noreferrer">https://www.tiff-to-pdf-converter.com</a>
-  - <a href="https://www.png-to-pdf-converter.com" target="_blank" rel="noopener noreferrer">https://www.png-to-pdf-converter.com</a>
-  - <a href="https://image-to-pdf-converter.com" target="_blank" rel="noopener noreferrer">https://image-to-pdf-converter.com</a>
-  - <a href="https://www.pdf-to-jpg-converter.com" target="_blank" rel="noopener noreferrer">https://www.pdf-to-jpg-converter.com</a>
-  - <a href="https://www.pdf-to-tiff-converter.com" target="_blank" rel="noopener noreferrer">https://www.pdf-to-tiff-converter.com</a>
-  - <a href="https://www.pdf-to-png-converter.com" target="_blank" rel="noopener noreferrer">https://www.pdf-to-png-converter.com</a>
-  - <a href="https://www.pdf-to-image-converter.com" target="_blank" rel="noopener noreferrer">https://www.pdf-to-image-converter.com</a>
-  - <a href="https://www.tiff-split-combine.com" target="_blank" rel="noopener noreferrer">https://www.tiff-split-combine.com</a>
-  - <a href="https://pdf-split-merge.com" target="_blank" rel="noopener noreferrer">https://pdf-split-merge.com</a>
-  - <a href="https://www.webpagethumbnailer.com" target="_blank" rel="noopener noreferrer">https://www.webpagethumbnailer.com</a>
-  - <a href="https://www.converthtmltoimage.com" target="_blank" rel="noopener noreferrer">https://www.converthtmltoimage.com</a>
-  - <a href="https://www.websitesscreenshot.com" target="_blank" rel="noopener noreferrer">https://www.websitesscreenshot.com</a>
-- Contact
-  -  Please contact me only via my <a href="https://www.upwork.com/freelancers/chauhanjaved" target="_blank" rel="noopener noreferrer">Upwork profile</a>
-  
-Thank you for taking the time to understand my expertise and approach.
+### 🛠 Tech Stack
+
+**Languages**  
+- JavaScript / TypeScript  
+
+**Frontend**  
+- Framework: Next.js  
+- Styling: Tailwind CSS  
+- UI Components: Shadcn/UI  
+
+**Backend & Services**  
+- Supabase, Firebase  
+- Headless CMS & E-commerce integrations  
+
+---
+
+📌 **Contact**  
+For project inquiries, please reach out to me only via my **[Freelancer.com profile](https://www.freelancer.com/u/frameworkte)** or **[Upwork.com profile](https://www.upwork.com/freelancers/chauhanjaved)**.

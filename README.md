@@ -16,7 +16,5 @@ I’m a **Frontend Web Developer** specializing in building modern, high-perform
 - Supabase, Firebase  
 - Headless CMS & E-commerce integrations  
 
----
-
-📌 **Contact**  
+### 📌 **Contact**  
 For project inquiries, please reach out to me only via my **[Freelancer.com profile](https://www.freelancer.com/u/frameworkte)** or **[Upwork.com profile](https://www.upwork.com/freelancers/chauhanjaved)**.
